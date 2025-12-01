@@ -5,13 +5,13 @@ from datetime import datetime, timedelta
 from telegram import Update, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "YOUR_TOKEN_HERE"
-ADMIN_ID = "YOUR_TELEGRAM_ID"
+BOT_TOKEN = "8301751505:AAGI40o0LKp2YO2t3D7UI_xzWkgjgmwHfMg"
+ADMIN_ID = "5952515002"
 
 # Example codes (you will replace them)
 CODES = {
-    "1111": "https://example.com/link1",
-    "2222": "https://example.com/link2",
+    "8D3c": "https://mega.nz/folder/DB9XTZbB#4OTr7_IYHzlvvx8Qb9qq2g",
+    "7w0G": "https://cloud.mail.ru/public/65gp/gfPVTuvF7",
     "3333": "https://example.com/link3",
     "4444": "https://example.com/link4",
     "5555": "https://example.com/link5",
